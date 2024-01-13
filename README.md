@@ -1,2 +1,445 @@
 # ShortKBeta1.13.24
 Kicker beta test, no files 
+
+
+# KickerShort-1-3
+
+**About**
+
+The Kicker has been a multi-year project starting in 2019 with a want for a break action Nerf revolver, and discovering the awesome power of 3D printing, As time goes on the design and build process gets more streamlined, This is a hobby, not a job but I do appreciate the feedback though it may be slow to implement. If you are reading this you are BETA testing the build so any notes would be greatly helpful! 
+
+The blaster usually gets around 120-130fps )Upper end using Dartzone, lower using Adventure Force) with a 788 spring and up to 200fps with a k26 spring, Though people's builds have not been getting that much, **SO** The question is why? 
+
+I use synthetic grease and 5000 cst oil in the plunger to improve performance 
+
+So, Goodluck! and if you have questions reach out to me on Reddit 
+
+My work does take me away from the internet for days to weeks at a time so expect long waits in responses 
+
+This work is licensed under a **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.**
+
+    This is still a Beta project, and I am not giving permission to share the files/information. 
+    If you know someone who is interested in testing please have them reach out to me on my Reddit Free-Committee-1202 or discord jacobmanzan#1854
+    
+**Disclaimer**: This is not a toy. This blaster is meant for hobbyists, not children. Blaster must be operated correctly to avoid injury. I am not responsible for any injuries from this blaster. Please use a bright/blaze orange muzzle and barrel cap on this blaster. Consult local laws before building this high-powered blaster.
+
+# Help Desk 
+
+**(I)** - Incomplete Disregard 
+**(C)** - Complete Use this info 
+    
+    Where to get Hardware
+
+    Main trouble shoot problems so far...
+
+    
+
+# Printing (c)
+    I Printed this model in PETG 
+       
+        1.8mm 3 Wall thickness
+        1.6mm Line width 
+        30 Percent infill 
+        80 Percent for Plunger and top rail 
+
+Licenses
+
+    
+        
+
+# Full Hardware Kit (I) 
+
+    Threaded Rod
+        4-06inch 6/32
+        1-07inch 6/32
+        1-03inch 6/32
+        1-14inch 6/32
+    Nuts
+        11-LockNut 6/32
+        06-    Nut 6/32
+    Bolts
+        20-M3/08mm  OR 1/8inch Coarse Screw
+        02-M3/12mm
+        10-M3/16mm
+        03-M3/35mm
+    Springs
+        1 - 14.5 Coil/4inch 788 -120fps
+       OR
+        1 - 09.0 Coil/4inch k26 -150fps
+       
+        1 - 50mm 6mm OD,0.6mm Wire Size
+        1 - 10mm 6mm OD,0.6mm Wire Size
+        1 - 30mm 6mm OD,0.6mm Wire Size
+        1 - 8-10mm 6mm OD,0.6mm Wire Size
+    O-rings
+        2 - Nitrile Rubber O-Rings, 3.1mm Wire Dia 24mm OD
+        2 - Nitrile Rubber O-Rings 8mm OD 4mm ID 2mm Width
+    Brass
+        1 - Less or Equal to 5.5inch (With 788 Spring) -  17/32x12 Round Brass Tube
+       OR
+        1 - More or Euqal to 5.5inch (With K26 Spring) -  17/32x12 Round Brass Tube
+        1 - 6inch - 4mm OD 0.2mm Wall Thickness, Seamless Straight Pipe
+    Tubing
+        1 - 3.6inch/92mm - 1-3/8″ ID, 1-1/2″ OD, 1' OAL, Clear, Polycarbonate
+    Threaded Rod
+        4 - 05.5inch 6/32 Threaded Rod
+        1 - 06.0inch 6/32 Threaded Rod
+        1 - 13.0inch 6/32 Threaded Rod 
+
+# The Build (I)
+Read each section fully before starting the build, The **TUNING** section will help to reduce rebuild time
+    
+![Tools Needed KickerShort](https://github.com/Slowworks/KickerShort-1-3/assets/129894905/c6b372e5-e1d7-4893-be1b-ccff1609ff63)
+
+Needle Nose, Razor, Ratchet 8mm, Screwdriver (coarse screws), M3 bit, Files (large and/or Small)  
+    
+
+# Gearbox (C)
+
+ **Parts Printed**
+   
+    K01-K08
+            
+  **Hardware**
+            
+    2X M3-20MM or Coarse screw equivalent 
+    1X M3-16mm or Coarse screw equivalent 
+
+  **Tuning**
+
+![PXL_20240104_173646974](https://github.com/Slowworks/KickerShort-1-3/assets/129894905/fbcda635-1acd-400c-a905-555fc641414a)
+
+Use the file to smooth the layer lines on the gearbox, this will help with a better prime and cylinder rotation 
+
+![PXL_20240104_173703769](https://github.com/Slowworks/KickerShort-1-3/assets/129894905/e092e83b-096c-4f80-8aaf-d0293f9e2b77)
+
+![PXL_20240104_173727801](https://github.com/Slowworks/KickerShort-1-3/assets/129894905/33cb1596-461a-433d-838f-6cecb0df5307)
+
+![PXL_20240104_174046372](https://github.com/Slowworks/KickerShort-1-3/assets/129894905/24e21bca-4221-43db-b44e-908a3a1ebea4)
+
+Be careful not to remove too much material.
+
+![PXL_20240104_174229140](https://github.com/Slowworks/KickerShort-1-3/assets/129894905/5562eed3-da7d-4fc8-8e5f-68d2f821dbbb)
+
+Bevel the edges of the pusher cap and clean with razor
+
+![PXL_20240104_174320938](https://github.com/Slowworks/KickerShort-1-3/assets/129894905/d52d5b09-0147-46a3-aed7-15da4e9b02e6)
+
+**Build**
+
+![PXL_20240104_173613235](https://github.com/Slowworks/KickerShort-1-3/assets/129894905/f00b1b57-f264-4ab4-a9fc-54517f22738d)
+
+![PXL_20240104_180839711 (1)](https://github.com/Slowworks/KickerShort-1-3/assets/129894905/711adb39-abf9-499c-b7bb-7fa065778e83)
+
+Use a M3-20mm
+
+![PXL_20240104_180920576](https://github.com/Slowworks/KickerShort-1-3/assets/129894905/a5a13f8d-30d0-4318-b80f-9215fa913201)
+
+![PXL_20240104_181029947](https://github.com/Slowworks/KickerShort-1-3/assets/129894905/ad24fd7e-3980-4f5a-a909-a697ed7326b5)
+
+Use a M3-20mm
+
+![PXL_20240104_181109901](https://github.com/Slowworks/KickerShort-1-3/assets/129894905/f8d90832-7cc4-4359-809b-8c172784af06)
+
+Make sure the Screw cap fits in the groves of the gearbox and is tightened to barely fit in the gearbox ( don't overtighten) 
+
+![PXL_20240104_181242376 (1)](https://github.com/Slowworks/KickerShort-1-3/assets/129894905/0ea7ba10-8353-4d9c-a296-b5e2ec310a7c)
+
+All the pieces plug together 
+
+![PXL_20240104_181316322](https://github.com/Slowworks/KickerShort-1-3/assets/129894905/28ede161-1571-48cb-9d45-c59875e9b448)
+
+Use a M3-16mm
+
+![PXL_20240104_181350433](https://github.com/Slowworks/KickerShort-1-3/assets/129894905/be9fa438-1605-456b-9b47-cd4613f69272)
+
+![PXL_20240104_181414590](https://github.com/Slowworks/KickerShort-1-3/assets/129894905/74ce532e-2158-40d0-a108-7ccf003f91a7)
+
+Smooth the cap for easier priming
+
+# Plunger (C)
+
+**Parts Printed**
+   
+    K18-K20
+
+**Hardware**
+   
+    2x - 6/32 Locking Nuts 
+    2x - M3- 8mm
+    1x - 8mm OD 4mm ID 2mm Width
+    1x - 3.1mm Wire Dia 24mm OD
+    1x - 6/32 Threaded rod, 65mm length
+
+**Build**
+
+![PXL_20240104_190140092](https://github.com/Slowworks/KickerShort-1-3/assets/129894905/d141de63-64a4-456c-ad46-52b27d8ca014)
+
+![PXL_20240104_190217243](https://github.com/Slowworks/KickerShort-1-3/assets/129894905/e9e0cac7-8fce-4fb6-a881-80c64050443d)
+
+Put one Locking Nut on the threaded rod and thread it slightly past the nut
+
+![PXL_20240104_190354182](https://github.com/Slowworks/KickerShort-1-3/assets/129894905/1c46067a-eaf0-43c2-a69b-cef8f0ac3a3c)
+
+Use some Lubricand on the 4mm o-ring and place it in the grove of the plunger front
+
+![PXL_20240104_190526645](https://github.com/Slowworks/KickerShort-1-3/assets/129894905/cd3cbff8-41ea-41b9-9c12-f69af5822f35)
+
+Using M3-8mm attach the Plunger front to the Plunger rail 
+
+![PXL_20240104_190543518](https://github.com/Slowworks/KickerShort-1-3/assets/129894905/7edea698-29ce-4d77-b415-47e7993fa276)
+
+Place threaded rod through the plunger front and rail 
+
+![PXL_20240104_190602468](https://github.com/Slowworks/KickerShort-1-3/assets/129894905/68f5943a-1a73-4056-9331-6292ebf6c5a0)
+
+Insert Locknut into The plunger Catch 
+
+![PXL_20240104_190623644](https://github.com/Slowworks/KickerShort-1-3/assets/129894905/2944ed38-9fe1-4b0b-a530-165f615e825b)
+
+Tighten the Pusher Cap until snug, (don't over-tighten until he rail bends) 
+
+![PXL_20240104_190744185](https://github.com/Slowworks/KickerShort-1-3/assets/129894905/414507d3-1942-491d-a27f-8217f1dd465e)
+
+![PXL_20240104_190802293](https://github.com/Slowworks/KickerShort-1-3/assets/129894905/3a93bc26-ed0c-4c80-bc0f-2f81c2fa42ab)
+
+![PXL_20240104_190826236](https://github.com/Slowworks/KickerShort-1-3/assets/129894905/0df0b559-033a-405f-b4b0-98ada46ccad5)
+
+You can give the pusher cap a slight bevel, which will increase the sensitivity of the trigger 
+
+![PXL_20240104_190912771](https://github.com/Slowworks/KickerShort-1-3/assets/129894905/8b46235a-881a-4682-acad-7fac3b3bc709)
+
+![PXL_20240104_231927545](https://github.com/Slowworks/KickerShort-1-3/assets/129894905/ca7e7901-a2c2-4638-8226-c10fe32d5e0f)
+
+# Catch (C)
+
+  **Parts Printed**
+
+    K21-K24
+    
+  **Hardware**
+
+      4x - M3-8mm
+      1x - M3-20mm Thumb Screw
+      1x - 10mm 304 Stainless Steel,6mm OD,0.6mm Wire Size SPRING
+
+  **Build**
+
+![PXL_20240104_231504538](https://github.com/Slowworks/KickerShort-1-3/assets/129894905/6526682c-ee4f-4a3c-a6d5-1f1077a8a559)
+
+![PXL_20240104_231538156](https://github.com/Slowworks/KickerShort-1-3/assets/129894905/66eb238a-7afd-4d4f-b841-68a1bd3df789)
+
+Use the Thumb screw to insert the M3 nut
+
+![PXL_20240104_231554009](https://github.com/Slowworks/KickerShort-1-3/assets/129894905/37188fad-f3de-40c4-9135-5247957dfd0e)
+
+![PXL_20240104_231631207](https://github.com/Slowworks/KickerShort-1-3/assets/129894905/01fb01fb-9ee1-422a-9cec-0f231533f87d)
+
+Use the M3-8mm to lock nut in place, don't over-tighten and block the groves of the nut 
+
+![PXL_20240104_231645567](https://github.com/Slowworks/KickerShort-1-3/assets/129894905/de8f61ed-a407-4a71-869f-92a4dd220bbb)
+
+![PXL_20240104_231726882](https://github.com/Slowworks/KickerShort-1-3/assets/129894905/46a37e1c-5495-456b-a9a2-d2df97f1f099)
+
+Screw catchfront on using the M3 thumb screw, This will be removed later when putting all the pieces together 
+
+![PXL_20240104_231756840](https://github.com/Slowworks/KickerShort-1-3/assets/129894905/3bfc3edf-b138-4218-8407-f9addeb086e8)
+
+Insert 10mm spring, with the trigger catch, the blaster will not operate if this piece is not oriented correctly 
+
+![PXL_20240104_231849867](https://github.com/Slowworks/KickerShort-1-3/assets/129894905/8f372c66-1501-4903-b279-33c3d883b6b6)
+
+Use M3-8mm to connect the last piece
+
+![PXL_20240104_231859485](https://github.com/Slowworks/KickerShort-1-3/assets/129894905/44a227f5-85ac-4daa-90b3-f6358f17e35a)
+
+
+# Trigger (C)
+
+   
+**Printed Parts**
+    
+    K29-K33
+
+**Hardware**
+
+    2x - M3 16mm
+    1x - 6inch 6/32
+    1x - Spring 50mm 6mm OD,0.6mm Wire Size
+    4x - Locking Nut 6/32
+
+**Build**
+
+![PXL_20240111_061339099](https://github.com/Slowworks/KickerShort-1-3/assets/129894905/2ee2da6f-2d9d-428b-88b1-182dd02f4942)
+
+![PXL_20240111_061513278](https://github.com/Slowworks/KickerShort-1-3/assets/129894905/cf12d06b-1fcd-4147-a820-d6674abc4986)
+
+A useful technique is to put one side of the threaded rod into a drill and use it as a stand and a way to speed up the process 
+
+![PXL_20240111_061546363](https://github.com/Slowworks/KickerShort-1-3/assets/129894905/d8bd4ba7-26a2-4670-acd4-dd394e60502b)
+
+Start with a Locking nut and screw it so the bottom of the nut is 47mm in 
+
+![PXL_20240111_062224797](https://github.com/Slowworks/KickerShort-1-3/assets/129894905/0277348c-2d79-4d3d-ab01-85199aedb1a6)
+
+Bring spring guide to the nut, and place it through the slot, pay attention to orientation in the picture 
+
+![PXL_20240111_061904768](https://github.com/Slowworks/KickerShort-1-3/assets/129894905/3f69f82a-199c-4bf7-ad19-f8854566f832)
+
+For a smoother trigger be sure to smooth the layer lines off the front trigger 
+
+![PXL_20240111_062313981](https://github.com/Slowworks/KickerShort-1-3/assets/129894905/2b44fab6-ef81-489e-9636-9926547f1373)
+
+Put the front trigger through the slot and fix it in place with a locking nut. 
+
+![PXL_20240111_062346222](https://github.com/Slowworks/KickerShort-1-3/assets/129894905/6adc0e3d-1351-4ae3-8946-6d95eb09acee)
+
+Place the spring on the threaded rod and match it with the back rail 
+
+![PXL_20240111_062425075](https://github.com/Slowworks/KickerShort-1-3/assets/129894905/ac79ac7d-15f5-4aa2-bccb-dae7d9e97ece)
+
+Use the M3 16mm and screw the two pieces together 
+
+![PXL_20240111_062636713](https://github.com/Slowworks/KickerShort-1-3/assets/129894905/63380203-55ad-4fac-8aa8-ed1c6b3e49be)
+
+![PXL_20240111_062855046](https://github.com/Slowworks/KickerShort-1-3/assets/129894905/b58381cf-3b03-4121-8e34-39f218c505c4)
+
+Bring a Locking Nut 10mm from the back piece (you may adjust this based on trigger position preferences)
+
+![PXL_20240111_062918901](https://github.com/Slowworks/KickerShort-1-3/assets/129894905/8efa395e-f6a7-405d-bde0-b8655c1c1d97)
+
+Place trigger on threaded rod and fix in place with locking nut 
+
+![PXL_20240111_063024994](https://github.com/Slowworks/KickerShort-1-3/assets/129894905/a61cd868-9654-4dc1-a543-64109e2aa4f1)
+
+There is more threaded rod on the trigger, this is for a planned rifle grip/stock. but is not needed for the pistol version. 
+
+## Frame 1 of 2 (C)
+
+**Printed Parts**
+
+    K26-K28 and Trigger Build
+    
+**Hardware**
+
+    1x - M3 8mm
+    4x - 6/32 Locking Nuts
+    4x - 6/32 Nuts
+    4x - 5.3inch/135mm 6/32 threaded rod
+    1x - 3.1mm Wire Dia 24mm OD O-ring
+    1x - 3.6inch/92mm - 1-3/8″ ID, 1-1/2″ OD, 1' OAL, Clear, Polycarbonate Tube
+
+**Build**
+
+![PXL_20240111_170511852](https://github.com/Slowworks/KickerShort-1-3/assets/129894905/26753ecf-cdfd-4a02-88a1-6bb8fde9f047)
+
+I already put the brass barrel in this build and can't get it out (Shrug) 
+
+![PXL_20240111_170529637](https://github.com/Slowworks/KickerShort-1-3/assets/129894905/e8fbfe70-885c-48ef-a4e8-6b0564073f56)
+
+Add your 8mm M3 to the base of the Turn Around, tighten snuggly 
+
+![PXL_20240111_170700625](https://github.com/Slowworks/KickerShort-1-3/assets/129894905/12bd7d9b-7454-46e2-8ac0-6ec4aaf9a163)
+
+Insert threaded rods with locking nuts through the four slots on the turnaround and the boring 
+
+![PXL_20240111_170723289](https://github.com/Slowworks/KickerShort-1-3/assets/129894905/fb35478e-5b53-48b2-83fe-106f98ae0bba)
+
+Make sure there is Lubricant on the tubing and fit it in place 
+
+![PXL_20240111_170845955](https://github.com/Slowworks/KickerShort-1-3/assets/129894905/b4ccab91-2137-40e6-9c3e-a33ee5419eee)
+
+Add all the pieces on the threaded rod and add the Non-locking nuts
+
+![PXL_20240111_171117264](https://github.com/Slowworks/KickerShort-1-3/assets/129894905/2b78dfd1-2fd0-47a4-9b2a-2d12940a6b5e)
+
+tighten nuts in place 
+
+# Top Rail (C)
+
+**Printed Parts**
+
+    K18 - K21    
+    
+**Hardware**
+
+    1x - 10mm 6mm OD,0.6mm Wire Size Spring
+    1x - 30mm 6mm OD,0.6mm Wire Size Spring
+    9x - M3 8mm
+    1x - M3 12mm (you can cut down a 16mm or 20mm)
+
+**Build**
+
+![PXL_20240111_221458771](https://github.com/Slowworks/KickerShort-1-3/assets/129894905/4a9272d3-453d-4078-ba24-82b21f2d5fab)
+
+![PXL_20240111_221520675](https://github.com/Slowworks/KickerShort-1-3/assets/129894905/5dd9a8f6-350b-492e-9dfb-5a9a1bf9cacc)
+
+File down the layer lines this is where the flick catches will meet. 
+
+![PXL_20240111_221638002](https://github.com/Slowworks/KickerShort-1-3/assets/129894905/0a0dce13-3867-44c6-8a33-d4c5e1fc825d)
+
+![PXL_20240111_221703330](https://github.com/Slowworks/KickerShort-1-3/assets/129894905/42596b60-5fae-4ba4-9a92-6e7aa1e6e790)
+
+Add an 8mm the indented grove on the bottom of the jam release housing 
+
+![PXL_20240111_221731937](https://github.com/Slowworks/KickerShort-1-3/assets/129894905/60b67446-ec50-4177-99c7-caf042132117)
+
+place the 10mm spring on top and add the jam release with a 12mm, don't drill 12mm all the way through the JRH or it will block the cylinder 
+
+![PXL_20240111_221840830](https://github.com/Slowworks/KickerShort-1-3/assets/129894905/3361fbd1-120e-45b6-b508-fca92b9639a8)
+
+add 30mm spring to JRH and fix the flick catch with 2 8mm
+
+![PXL_20240111_222108223](https://github.com/Slowworks/KickerShort-1-3/assets/129894905/0543dec9-cc80-497e-b87d-ebbc163cfa4d)
+
+install TA connection and add the last 6 8mm, The piece should not bend backwards unless jam release is pressed 
+
+
+        Hardware
+
+        Build
+
+        Tuning
+    
+    Frame 
+        Hardware
+
+        Build
+
+        Tuning
+
+# My Shopping List 
+
+        Brass
+            
+            4mm OD 0.2mm Wall Thickness  -  https://www.amazon.com/dp/B07Z98B2G2?smid=A1THAZDOWP300U&ref_=chk_typ_imgToDp&th=1
+
+            17/32x12 Round Brass Tube  -  https://www.amazon.com/gp/product/B002N7RPHY/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1
+            
+        Springs 
+
+            304 Stainless Steel,6mm OD,0.6mm Wire Size  -  https://www.amazon.com/dp/B076LTYY5K?psc=1&smid=A30WUG2ZDGM0XM&ref_=chk_typ_imgToDp
+
+        Bolts
+
+            M3-16mm  - https://www.amazon.com/dp/B0BGRNWVSR?smid=A2IAE9BYXQJS36&ref_=chk_typ_imgToDp&th=1
+
+            M3-8mm  -  https://www.amazon.com/dp/B0BGRQ8HJC?smid=A2IAE9BYXQJS36&ref_=chk_typ_imgToDp&th=1
+
+            M3-35mm - https://www.amazon.com/gp/product/B01E5CEG58/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+
+        O-rings
+
+             3.1mm Wire Dia 24mm OD  -  https://www.amazon.com/dp/B07YJDJJGV?smid=A2830GKD8L76AP&ref_=chk_typ_imgToDp&th=1
+
+             8mm OD 4mm ID 2mm Width  -  https://www.amazon.com/gp/product/B07F37KYZZ/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1
+
+        Tubing 
+
+            1-3/8″ ID, 1-1/2″ OD, 1' OAL, Clear, Polycarbonate  -  https://www.mscdirect.com/product/details/63406193
+
+        Threaded Rod 
+        
+            6/32 - https://www.mscdirect.com/product/details/04353033
+                Shopping at ace their 6/32 was weirdly small, They may have a new supplier but its closer to 4/32 so make sure if you are shopping at ace the 6/32 nuts fit snuggly. 
+        Nuts 
