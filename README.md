@@ -36,6 +36,22 @@ This work is licensed under a **Creative Commons Attribution-NonCommercial-Share
         
     Main trouble shoot problems so far...
 
+        - Low FPS
+            - Air pressure issues 
+            - 
+        - Bad air pressure- Seems the irregularities in individual printers are causing improper fittings
+            -O-ring to small/to large
+            -Pusher to TA connection to small/to large 
+            -Catch not fitting through orange front 
+
+            -?? I don't know enough about how to change tolerances, but I can make some test files 
+                - hold off on printing,
+                    TA, Plunger Front, Pusher Cap, 
+                    
+        - sticky Trigger 
+            - Trigger jams when pulled
+
+            - Make sure parts are properly sanded, and lubricated 
     
 
 # Printing (c)
