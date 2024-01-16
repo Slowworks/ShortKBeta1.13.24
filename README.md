@@ -230,9 +230,7 @@ Finish with 3 16mm on each of the pivot arms
 
 **Parts Printed**
    
-    K18-K20
-
-
+    K19-K21
 
 **Hardware**
    
@@ -286,7 +284,7 @@ You can give the pusher cap a slight bevel, which will increase the sensitivity 
 
   **Parts Printed**
 
-    K21-K24
+    K22-K25
     
   **Hardware**
 
