@@ -30,6 +30,10 @@ This work is licensed under a **Creative Commons Attribution-NonCommercial-Share
     
     Where to get Hardware
 
+        Everything can be ordered online, Mostly through Amazon 
+        Some things are sold in bulk, so you could order them from me at cost plus shipping 
+            I am not trying to put together HW kits, but I do want to help people beta-test 
+        
     Main trouble shoot problems so far...
 
     
