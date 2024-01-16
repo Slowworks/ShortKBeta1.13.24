@@ -118,7 +118,7 @@ Needle Nose, Razor, Ratchet 8mm, Screwdriver (coarse screws), M3 bit, Files (lar
 
  **Parts Printed**
    
-    K01-K08
+    K01-K09
             
   **Hardware**
             
@@ -177,16 +177,67 @@ Use a M3-16mm
 
 Smooth the cap for easier priming
 
+# Grip
+
+**Printed Parts**
+
+    K10-K18
+
+**Hardware**
+
+    01x - M3 08mm    or    Coarse screw equivalent 
+    18x - m3 16mm    or    Coarse screw equivalent 
+
+**Build**
+
+![PXL_20240116_174420213](https://github.com/Slowworks/ShortKBeta1.13.24/assets/129894905/9f8f0935-0fcf-403e-a343-98389c63b101)
+
+![PXL_20240116_174420213](https://github.com/Slowworks/ShortKBeta1.13.24/assets/129894905/8b715c59-df72-418a-9701-4f39c734a46c)
+
+Use a 16mm in the insert of the middle grip, make sure the pilot hole is clear, don't over tighten 
+
+![PXL_20240116_174756508](https://github.com/Slowworks/ShortKBeta1.13.24/assets/129894905/80010cfc-e7d0-4e3a-a392-bd6fc6f11ad3)
+
+File down the layer lines of the flickcatch 
+
+![PXL_20240116_174420213](https://github.com/Slowworks/ShortKBeta1.13.24/assets/129894905/04689a89-7160-42d4-b6c8-ac278bb3f6fd)
+
+Insert 30mm spring and fix in place with 16mm and flickcatch 
+
+![PXL_20240116_174652834](https://github.com/Slowworks/ShortKBeta1.13.24/assets/129894905/b687804b-6db6-4577-83f1-3567af2bb85b)
+
+Add an 8mm to the insert in the grip 
+
+![PXL_20240116_174915730](https://github.com/Slowworks/ShortKBeta1.13.24/assets/129894905/11d84ba6-0cb1-4ced-a07e-8f7adb07e0f2)
+
+Fix both sides of the grip in place with 2 16mm 
+
+![PXL_20240116_175007856](https://github.com/Slowworks/ShortKBeta1.13.24/assets/129894905/077d2d20-e470-4156-8125-1970ab28fb70)
+
+The bottom grip is fixed with 2 16mm 
+
+![PXL_20240116_175121483](https://github.com/Slowworks/ShortKBeta1.13.24/assets/129894905/6fbf65b4-f8f5-43a7-903f-280cc2b748d0)
+
+Then 2 more 16mm for each cylinder housing 
+
+![PXL_20240116_175302366](https://github.com/Slowworks/ShortKBeta1.13.24/assets/129894905/6101a70a-fa2f-49ab-88c3-81611738cbf2)
+
+Finish with 3 16mm on each of the pivot arms 
+
+
+
 # Plunger (C)
 
 **Parts Printed**
    
     K18-K20
 
+
+
 **Hardware**
    
     2x - 6/32 Locking Nuts 
-    2x - M3- 8mm
+    2x - M3- 8mm     or    Coarse screw equivalent 
     1x - 8mm OD 4mm ID 2mm Width
     1x - 3.1mm Wire Dia 24mm OD
     1x - 6/32 Threaded rod, 65mm length
@@ -239,7 +290,7 @@ You can give the pusher cap a slight bevel, which will increase the sensitivity 
     
   **Hardware**
 
-      4x - M3-8mm
+      4x - M3-8mm     or    2/4 can use Coarse screw equivalent 
       1x - M3-20mm Thumb Screw
       1x - 10mm 304 Stainless Steel,6mm OD,0.6mm Wire Size SPRING
 
