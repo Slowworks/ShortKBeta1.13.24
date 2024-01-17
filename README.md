@@ -449,7 +449,7 @@ File down the layer lines this is where the flick catches will meet.
 
 ![PXL_20240111_221703330](https://github.com/Slowworks/KickerShort-1-3/assets/129894905/42596b60-5fae-4ba4-9a92-6e7aa1e6e790)
 
-Add an 8mm the indented grove on the bottom of the jam release housing 
+Add an 8mm indented grove on the bottom of the jam release housing 
 
 ![PXL_20240111_221731937](https://github.com/Slowworks/KickerShort-1-3/assets/129894905/60b67446-ec50-4177-99c7-caf042132117)
 
@@ -461,7 +461,16 @@ add 30mm spring to JRH and fix the flick catch with 2 8mm
 
 ![PXL_20240111_222108223](https://github.com/Slowworks/KickerShort-1-3/assets/129894905/0543dec9-cc80-497e-b87d-ebbc163cfa4d)
 
-install TA connection and add the last 6 8mm, The piece should not bend backwards unless jam release is pressed 
+install TA connection and add the last 6 8mm, The piece should not bend backward unless jam release is pressed 
+
+# Frame 2 of 2
+
+**Printer Parts**
+
+    K34 - K36
+    Frame 1 of 2
+    
+
 
 
         Hardware
