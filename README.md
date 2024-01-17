@@ -469,9 +469,43 @@ install TA connection and add the last 6 8mm, The piece should not bend backward
 
     K34 - K36
     Frame 1 of 2
-    
+    Plunger
+    Catch
+    Top Rail 
+    Grip 
+    GearBox
 
+**Hardware**
 
+    11.75inches - 6/32 Threaded Rod
+    Locking Nut - 6/32
+    134mm/5.3inch - Brass 
+    1x - Oring 
+    6x - M3 8mm
+    1x - M3 35mm
+    1x - Spring 
+
+**Build**
+
+![PXL_20240116_183223466](https://github.com/Slowworks/ShortKBeta1.13.24/assets/129894905/c8077d19-ed5b-4037-8122-6f58924686d3)
+
+![PXL_20240116_183242502](https://github.com/Slowworks/ShortKBeta1.13.24/assets/129894905/fde0fde6-8bda-4836-be30-0ce43b39bf6f)
+
+![PXL_20240116_183256345](https://github.com/Slowworks/ShortKBeta1.13.24/assets/129894905/957235b6-1d22-4422-91a8-69642c35e2d1)
+
+File down and add lubrication to front trigger
+
+![PXL_20240116_183328259](https://github.com/Slowworks/ShortKBeta1.13.24/assets/129894905/d391bf45-f788-4e6c-9f60-be6e987d6a59)
+
+Fix in place with 35mm
+
+![PXL_20240116_183617723](https://github.com/Slowworks/ShortKBeta1.13.24/assets/129894905/4d7ae2fe-b059-42be-9954-16af03bdd1ed)
+
+Fix Trigger gaurd and pic rail with 6 8mm
+
+![PXL_20240116_183644427](https://github.com/Slowworks/ShortKBeta1.13.24/assets/129894905/7af941f2-0624-47bd-a97c-6697f0b433ee)
+
+Build the main rail, bring a locking nut to the center of the threaded rod, add the brass on the upper side of the nut with an oring and lubricate
 
         Hardware
 
