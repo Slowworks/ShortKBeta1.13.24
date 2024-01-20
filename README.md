@@ -551,20 +551,21 @@ Fix grip (16mm) and Toprail (8mm) in place
 
 Add o-rings and Barrel catches to Barrel, Make sure brass slots completely back into TA, It should not be forced, but should hit a wall
 
-![PXL_20240120_185048301](https://github.com/Slowworks/ShortKBeta1.13.24/assets/129894905/e3c900f0-cfc1-4216-9dd7-20ef37ad3a13)
+![PXL_20240120_185103568](https://github.com/Slowworks/ShortKBeta1.13.24/assets/129894905/faae53d9-c353-4d5a-a757-6057bb966276)
 
-![PXL_20240120_185048301](https://github.com/Slowworks/ShortKBeta1.13.24/assets/129894905/8746f2f1-b666-4374-8ca9-66c76b39fb3e)
+![PXL_20240120_185117213](https://github.com/Slowworks/ShortKBeta1.13.24/assets/129894905/9476f1c5-b1f5-4730-885f-0c6c56371688)
 
 Fix the orange Front in place with 4 16mm
 
-![PXL_20240120_185048301](https://github.com/Slowworks/ShortKBeta1.13.24/assets/129894905/1bd253e6-1c61-4922-b776-b98a06e4fd6c)
+![PXL_20240120_185227788](https://github.com/Slowworks/ShortKBeta1.13.24/assets/129894905/e3dc0658-9a12-43db-a166-f0a6fb25680a)
 
-Screw sight onto orange tip (this will take some trial as orange tip/sight should be flush with the orange front in the end)
-slight Lubrication on orange tip 
+
+Screw sight onto orange tip (this will take some trial as the orange tip/sight should be flush with the orange front in the end)
+slight Lubrication on the orange tip 
 
 ![PXL_20240120_185358597](https://github.com/Slowworks/ShortKBeta1.13.24/assets/129894905/3ac54e2e-20cb-46d1-a4d6-99c58aae48f9)
 
-O-ringe should be slightly pressed and barrel firmly in place 
+O-ring should be slightly pressed and the barrel firmly in place 
 
 
 
