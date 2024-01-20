@@ -32,6 +32,17 @@ This work is licensed under a **Creative Commons Attribution-NonCommercial-Share
     
 **Disclaimer**: This is not a toy. This blaster is meant for hobbyists, not children. Blaster must be operated correctly to avoid injury. I am not responsible for any injuries from this blaster. Please use a bright/blaze orange muzzle and barrel cap on this blaster. Consult local laws before building this high-powered blaster. 
 
+License 
+Creative Commons License
+This work is licensed under a
+Creative Commons (4.0 International License)
+Attribution—Noncommercial—Share Alike
+✖ | Sharing without ATTRIBUTION
+✔ | Remix Culture allowed
+✖ | Commercial Use
+✖ | Free Cultural Works
+✖ | Meets Open Definition
+
 # Help Desk 
 
 **(I)** - Incomplete Disregard 
