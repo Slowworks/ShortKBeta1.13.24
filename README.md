@@ -94,6 +94,7 @@ Licenses
     O-rings
         2 - Nitrile Rubber O-Rings, 3.1mm Wire Dia 24mm OD
         2 - Nitrile Rubber O-Rings 8mm OD 4mm ID 2mm Width
+        2 - Nitrile Rubber O-Rings 15mm OD 11mm ID 2mm Width
     Brass
         1 - Less or Equal to 5.5inch (With 788 Spring) -  17/32x12 Round Brass Tube
        OR
@@ -177,7 +178,7 @@ Use a M3-16mm
 
 Smooth the cap for easier priming
 
-# Grip
+# Grip (c)
 
 **Printed Parts**
 
@@ -400,6 +401,8 @@ There is more threaded rod on the trigger, this is for a planned rifle grip/stoc
 
 **Build**
 
+Ignore the Barrel, I got it stuck because of an old file 
+
 ![PXL_20240111_170511852](https://github.com/Slowworks/KickerShort-1-3/assets/129894905/26753ecf-cdfd-4a02-88a1-6bb8fde9f047)
 
 I already put the brass barrel in this build and can't get it out (Shrug) 
@@ -493,7 +496,7 @@ install TA connection and add the last 6 8mm, The piece should not bend backward
 
 ![PXL_20240116_183256345](https://github.com/Slowworks/ShortKBeta1.13.24/assets/129894905/957235b6-1d22-4422-91a8-69642c35e2d1)
 
-File down and add lubrication to front trigger
+File down and add lubrication to the front trigger
 
 ![PXL_20240116_183328259](https://github.com/Slowworks/ShortKBeta1.13.24/assets/129894905/d391bf45-f788-4e6c-9f60-be6e987d6a59)
 
@@ -501,7 +504,7 @@ Fix in place with 35mm
 
 ![PXL_20240116_183617723](https://github.com/Slowworks/ShortKBeta1.13.24/assets/129894905/4d7ae2fe-b059-42be-9954-16af03bdd1ed)
 
-Fix Trigger gaurd and pic rail with 6 8mm
+Fix Trigger guard and pic rail with 6 8mm
 
 ![PXL_20240116_183644427](https://github.com/Slowworks/ShortKBeta1.13.24/assets/129894905/7af941f2-0624-47bd-a97c-6697f0b433ee)
 
@@ -541,7 +544,7 @@ Fix grip (16mm) and Toprail (8mm) in place
 
     4x- M3 16mm 
     1x -17/32 5.5inch Brass barrel 
-    2x 10mm oring 
+    2x  15mm OD 11mm ID 2mm Width O-ring 
 
 **Build**
 
