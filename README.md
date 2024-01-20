@@ -70,27 +70,28 @@ Licenses
 # Full Hardware Kit (I) 
 
     Threaded Rod
-        4-06inch 6/32
-        1-07inch 6/32
-        1-03inch 6/32
-        1-14inch 6/32
+        4-5.3inch 6/32
+        1-6.0inch 6/32
+        1-2.6inch 6/32
+        1-11.75inch 6/32
     Nuts
         11-LockNut 6/32
         06-    Nut 6/32
     Bolts
-        20-M3/08mm  OR 1/8inch Coarse Screw
-        02-M3/12mm
-        10-M3/16mm
-        03-M3/35mm
+        23-M3/08mm  OR 1/8inch Coarse Screw
+        01-M3/12mm
+        25-M3/16mm
+        02-M3/20mm
+        01-M3/35mm
     Springs
         1 - 14.5 Coil/4inch 788 -120fps
        OR
         1 - 09.0 Coil/4inch k26 -150fps
        
         1 - 50mm 6mm OD,0.6mm Wire Size
-        1 - 10mm 6mm OD,0.6mm Wire Size
+        2 - 10mm 6mm OD,0.6mm Wire Size
         1 - 30mm 6mm OD,0.6mm Wire Size
-        1 - 8-10mm 6mm OD,0.6mm Wire Size
+        1 - 35mm 6mm OD,0.6mm Wire Size
     O-rings
         2 - Nitrile Rubber O-Rings, 3.1mm Wire Dia 24mm OD
         2 - Nitrile Rubber O-Rings 8mm OD 4mm ID 2mm Width
@@ -99,13 +100,10 @@ Licenses
         1 - Less or Equal to 5.5inch (With 788 Spring) -  17/32x12 Round Brass Tube
        OR
         1 - More or Euqal to 5.5inch (With K26 Spring) -  17/32x12 Round Brass Tube
-        1 - 6inch - 4mm OD 0.2mm Wall Thickness, Seamless Straight Pipe
+        1 - 5.3inch - 4mm OD 0.2mm Wall Thickness, Seamless Straight Pip
+    
     Tubing
         1 - 3.6inch/92mm - 1-3/8″ ID, 1-1/2″ OD, 1' OAL, Clear, Polycarbonate
-    Threaded Rod
-        4 - 05.5inch 6/32 Threaded Rod
-        1 - 06.0inch 6/32 Threaded Rod
-        1 - 13.0inch 6/32 Threaded Rod 
 
 # The Build (I)
 Read each section fully before starting the build, The **TUNING** section will help to reduce rebuild time
