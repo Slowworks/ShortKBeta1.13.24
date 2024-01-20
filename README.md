@@ -489,10 +489,10 @@ install TA connection and add the last 6 8mm, The piece should not bend backward
     11.75inches - 6/32 Threaded Rod
     Locking Nut - 6/32
     134mm/5.3inch - Brass 
-    1x - Oring 
+    1x - 8mm OD 4mm ID 2mm Width Oring 
     6x - M3 8mm
     1x - M3 35mm
-    1x - Spring 
+    1x - 6mm OD,0.6mm Wire Size Spring 
 
 **Build**
 
