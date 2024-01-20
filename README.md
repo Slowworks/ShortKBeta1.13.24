@@ -1,6 +1,8 @@
 # ShortKBeta1.13.24
 Kicker beta test, no files 
 
+![PXL_20240120_195621127](https://github.com/Slowworks/ShortKBeta1.13.24/assets/129894905/8b17c841-0e26-42ca-adf5-0d0cc88b39b4)
+
 
 # KickerShort-1-3
 
@@ -62,7 +64,9 @@ This work is licensed under a **Creative Commons Attribution-NonCommercial-Share
         30 Percent infill 
         80 Percent for Plunger and top rail 
 
-Licenses
+This is the model you'll be making 
+
+![PXL_20240120_195857179](https://github.com/Slowworks/ShortKBeta1.13.24/assets/129894905/812adb64-6998-4b5e-ba54-1675e96e97c4)
 
     
         
