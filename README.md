@@ -511,19 +511,23 @@ Build the main rail, bring a locking nut to the center of the threaded rod, add 
 
 Fit into gear and insert through TA
 
-![PXL_20240116_183747586](https://github.com/Slowworks/ShortKBeta1.13.24/assets/129894905/62fb6e92-f339-44fd-b2f7-7bafee633627)
+![PXL_20240116_183814226](https://github.com/Slowworks/ShortKBeta1.13.24/assets/129894905/f8370055-2b13-4619-97bf-97e8fb68d425)
 
 Make it snug with the nut at the back of the TPull 
 
-![PXL_20240116_183747586](https://github.com/Slowworks/ShortKBeta1.13.24/assets/129894905/6c812777-5977-475a-b934-819dc34f5a82)
+![PXL_20240116_183937248](https://github.com/Slowworks/ShortKBeta1.13.24/assets/129894905/f03449d3-354c-4a05-8088-ecabdb3ce637)
+
 
 Lubricate the inside of the tubing with, grease and oil, and fit catch onto the end of the threaded rod
 
-![PXL_20240116_183747586](https://github.com/Slowworks/ShortKBeta1.13.24/assets/129894905/441b8c50-d987-4139-9696-7c8a74fc86bf)
+![PXL_20240116_183952667](https://github.com/Slowworks/ShortKBeta1.13.24/assets/129894905/3c93933e-c3f8-46f6-a096-dd05ef1b8757)
 
-![PXL_20240116_183747586](https://github.com/Slowworks/ShortKBeta1.13.24/assets/129894905/cee70483-d892-48e5-a3ea-a7179e594bf9)
 
-![PXL_20240116_183747586](https://github.com/Slowworks/ShortKBeta1.13.24/assets/129894905/f301e87d-ac10-4288-b560-7f452859cdec)
+![PXL_20240116_184006146](https://github.com/Slowworks/ShortKBeta1.13.24/assets/129894905/130a9678-3316-48ba-a6af-558a3da72854)
+
+
+![PXL_20240116_184112064](https://github.com/Slowworks/ShortKBeta1.13.24/assets/129894905/5f360653-655d-4e61-934e-ea5e78e34871)
+
 
 Fix grip (16mm) and Toprail (8mm) in place 
 
