@@ -507,18 +507,39 @@ Fix Trigger gaurd and pic rail with 6 8mm
 
 Build the main rail, bring a locking nut to the center of the threaded rod, add the brass on the upper side of the nut with an oring and lubricate
 
-        Hardware
+![PXL_20240116_183747586](https://github.com/Slowworks/ShortKBeta1.13.24/assets/129894905/1f38eec1-8af2-4f82-b43d-1d3217b0db65)
 
-        Build
+Fit into gear and insert through TA
 
-        Tuning
+![PXL_20240116_183747586](https://github.com/Slowworks/ShortKBeta1.13.24/assets/129894905/62fb6e92-f339-44fd-b2f7-7bafee633627)
+
+Make it snug with the nut at the back of the TPull 
+
+![PXL_20240116_183747586](https://github.com/Slowworks/ShortKBeta1.13.24/assets/129894905/6c812777-5977-475a-b934-819dc34f5a82)
+
+Lubricate the inside of the tubing with, grease and oil, and fit catch onto the end of the threaded rod
+
+![PXL_20240116_183747586](https://github.com/Slowworks/ShortKBeta1.13.24/assets/129894905/441b8c50-d987-4139-9696-7c8a74fc86bf)
+
+![PXL_20240116_183747586](https://github.com/Slowworks/ShortKBeta1.13.24/assets/129894905/cee70483-d892-48e5-a3ea-a7179e594bf9)
+
+![PXL_20240116_183747586](https://github.com/Slowworks/ShortKBeta1.13.24/assets/129894905/f301e87d-ac10-4288-b560-7f452859cdec)
+
+Fix grip (16mm) and Toprail (8mm) in place 
+
+# Final Steps 
+
+**Printed Parts**
+
+    K41-K44
+
+**Hardware**
+
+    4x- M3 16mm 
+    1x -17/32 5.5inch Brass barrel 
+    2x 10mm oring 
     
-    Frame 
-        Hardware
 
-        Build
-
-        Tuning
 
 # My Shopping List 
 
