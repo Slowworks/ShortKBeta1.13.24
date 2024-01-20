@@ -567,8 +567,9 @@ slight Lubrication on the orange tip
 
 O-ring should be slightly pressed and the barrel firmly in place 
 
+![PXL_20240120_192520682](https://github.com/Slowworks/ShortKBeta1.13.24/assets/129894905/889fb13d-6128-4398-b4d0-52eb3605c036)
 
-
+The last think is to choose or create a grip decal 
     
 
 
