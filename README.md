@@ -3,13 +3,13 @@ Kicker beta test, no files
 
 ![PXL_20240120_195621127](https://github.com/Slowworks/ShortKBeta1.13.24/assets/129894905/8b17c841-0e26-42ca-adf5-0d0cc88b39b4)
 
-    Intro/About
-    Licesncing 
-    Help Desk/Question maybe answers that have been brought up  
-    Hardware List 
-    The build
-    Shopping List 
-    How to use 
+    1-Intro/About
+    2-Licensing 
+    3-Help Desk/Question maybe answers that have been brought up  
+    4-Hardware List 
+    5-The build
+    6-Shopping List 
+    7-How to use 
     
 # KickerShort-1-3
 
