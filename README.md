@@ -95,7 +95,7 @@ This is the model you'll be making
     
         
 
-# Full Hardware Kit (I) 
+# Full Hardware Kit (C) 
 
     Threaded Rod
         4-5.3inch 6/32
