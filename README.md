@@ -3,7 +3,14 @@ Kicker beta test, no files
 
 ![PXL_20240120_195621127](https://github.com/Slowworks/ShortKBeta1.13.24/assets/129894905/8b17c841-0e26-42ca-adf5-0d0cc88b39b4)
 
-
+    Intro/About
+    Licesncing 
+    Help Desk/Question maybe answers that have been brought up  
+    Hardware List 
+    The build
+    Shopping List 
+    How to use 
+    
 # KickerShort-1-3
 
 **About**
@@ -23,7 +30,7 @@ This work is licensed under a **Creative Commons Attribution-NonCommercial-Share
     This is still a Beta project, and I am not giving permission to share the files/information. 
     If you know someone who is interested in testing please have them reach out to me on my Reddit Free-Committee-1202 or discord jacobmanzan#1854
     
-**Disclaimer**: This is not a toy. This blaster is meant for hobbyists, not children. Blaster must be operated correctly to avoid injury. I am not responsible for any injuries from this blaster. Please use a bright/blaze orange muzzle and barrel cap on this blaster. Consult local laws before building this high-powered blaster.
+**Disclaimer**: This is not a toy. This blaster is meant for hobbyists, not children. Blaster must be operated correctly to avoid injury. I am not responsible for any injuries from this blaster. Please use a bright/blaze orange muzzle and barrel cap on this blaster. Consult local laws before building this high-powered blaster. 
 
 # Help Desk 
 
