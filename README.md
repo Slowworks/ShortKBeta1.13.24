@@ -113,7 +113,13 @@ Read each section fully before starting the build, The **TUNING** section will h
 ![Tools Needed KickerShort](https://github.com/Slowworks/KickerShort-1-3/assets/129894905/c6b372e5-e1d7-4893-be1b-ccff1609ff63)
 
 Needle Nose, Razor, Ratchet 8mm, Screwdriver (coarse screws), M3 bit, Files (large and/or Small)  
+
+I use two different Lubricants 
+    Silicone Oil 5000 CST
+    Multi-Purpose synthetic grease 
     
+![PXL_20240120_193330808](https://github.com/Slowworks/ShortKBeta1.13.24/assets/129894905/fe1720e3-f445-4a03-91ed-7d391bceb707)
+
 
 # Gearbox (C)
 
