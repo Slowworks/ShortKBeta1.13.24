@@ -237,7 +237,7 @@ Use a 16mm in the insert of the middle grip, make sure the pilot hole is clear, 
 
 File down the layer lines of the flickcatch 
 
-![PXL_20240116_174420213](https://github.com/Slowworks/ShortKBeta1.13.24/assets/129894905/04689a89-7160-42d4-b6c8-ac278bb3f6fd)
+![PXL_20240116_174626080 (1)](https://github.com/Slowworks/ShortKBeta1.13.24/assets/129894905/42a9c21d-7740-42f3-a0a0-a55d169674ac)
 
 Insert 30mm spring and fix in place with 16mm and flickcatch 
 
