@@ -60,7 +60,7 @@ Attribution—Noncommercial—Share Alike
         Some things are sold in bulk, so you could order them from me at cost plus shipping 
             I am not trying to put together HW kits, but I do want to help people beta-test 
         
-    Main trouble shoot problems so far...
+    Main troubleshooting problems so far...
 
         - Low FPS
             - Air pressure issues 
@@ -78,7 +78,11 @@ Attribution—Noncommercial—Share Alike
             - Trigger jams when pulled
 
             - Make sure parts are properly sanded, and lubricated 
-    
+
+        - Loose T-pull 
+            After Blaster is primed if tilted back T-pull will slide Causing a double prime or inability to fire
+            
+            This only happens after prolonged use once pieces have worn out 
 
 # Printing (c)
     I Printed this model in PETG 
