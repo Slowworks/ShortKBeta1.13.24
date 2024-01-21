@@ -229,7 +229,7 @@ Smooth the cap for easier priming
 
 ![PXL_20240116_174420213](https://github.com/Slowworks/ShortKBeta1.13.24/assets/129894905/9f8f0935-0fcf-403e-a343-98389c63b101)
 
-![PXL_20240116_174420213](https://github.com/Slowworks/ShortKBeta1.13.24/assets/129894905/8b715c59-df72-418a-9701-4f39c734a46c)
+![PXL_20240116_174531935 (1)](https://github.com/Slowworks/ShortKBeta1.13.24/assets/129894905/f3767f28-8d56-431b-8c84-20ebb2fa803a)
 
 Use a 16mm in the insert of the middle grip, make sure the pilot hole is clear, don't over tighten 
 
