@@ -84,6 +84,8 @@ Attribution—Noncommercial—Share Alike
             
             This only happens after prolonged use once pieces have worn out 
 
+https://github.com/Slowworks/ShortKBeta1.13.24/assets/129894905/82d470e1-523b-462d-920e-25b42229bc1f
+
 # Printing (c)
     I Printed this model in PETG 
        
