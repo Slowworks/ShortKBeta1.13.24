@@ -649,3 +649,14 @@ The last think is to choose or create a grip decal
             6/32 - https://www.mscdirect.com/product/details/04353033
                 Shopping at ace their 6/32 was weirdly small, They may have a new supplier but its closer to 4/32 so make sure if you are shopping at ace the 6/32 nuts fit snuggly. 
         Nuts 
+
+
+
+
+# How it works
+
+**Flick**
+
+https://github.com/Slowworks/ShortKBeta1.13.24/assets/129894905/79e2afc9-a98b-4e61-b75d-2f61e8dd346d
+
+
