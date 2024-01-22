@@ -657,6 +657,6 @@ The last think is to choose or create a grip decal
 
 **Flick**
 
-https://github.com/Slowworks/ShortKBeta1.13.24/assets/129894905/79e2afc9-a98b-4e61-b75d-2f61e8dd346d
+https://github.com/Slowworks/ShortKBeta1.13.24/assets/129894905/b9c7db28-b40d-4d09-88e3-82ed95df4446
 
 
