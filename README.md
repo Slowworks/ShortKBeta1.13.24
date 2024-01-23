@@ -1,4 +1,8 @@
 # ShortKBeta1.13.24
+
+![kicker gif](https://github.com/Slowworks/ShortKBeta1.13.24/assets/129894905/e76853c5-d651-48ba-a498-a15eeefdf114)
+
+
 Kicker beta test, no files 
 
 ![PXL_20240120_195621127](https://github.com/Slowworks/ShortKBeta1.13.24/assets/129894905/8b17c841-0e26-42ca-adf5-0d0cc88b39b4)
