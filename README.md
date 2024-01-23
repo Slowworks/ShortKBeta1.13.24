@@ -25,14 +25,14 @@ So, Goodluck! and if you have questions reach out to me on Reddit
 
 My work does take me away from the internet for days to weeks at a time so expect long waits in responses 
 
-This work is licensed under a **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.**
-
-    This is still a Beta project, and I am not giving permission to share the files/information. 
+   This is still a Beta project, and I am not giving permission to share the files/information. 
     If you know someone who is interested in testing please have them reach out to me on my Reddit Free-Committee-1202 or discord jacobmanzan#1854
     
 **Disclaimer**: This is not a toy. This blaster is meant for hobbyists, not children. Blaster must be operated correctly to avoid injury. I am not responsible for any injuries from this blaster. Please use a bright/blaze orange muzzle and barrel cap on this blaster. Consult local laws before building this high-powered blaster. 
 
 # License 
+
+This work is licensed under a **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.**
 
 Creative Commons License
 This work is licensed under a
