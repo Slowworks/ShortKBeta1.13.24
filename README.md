@@ -680,15 +680,21 @@ Use the bottom at the top of the blaster to release the catch, if  a dart gets s
 # Mod Dreams
 
 **Chain**
+    
     Way early on in this project, I created a chain method, it could be belt-fed or used as a normal 6-cylinder, I hope to get that project going again 
 
+
+
 **Above 6**
+   
     The T-pull was built to be modular if anyone can create a cylinder of more than six and simply swap the gears and cylinder out 
 
 **Big Stock**
+  
     There is a two-piece grip that would allow the bottom half to be swapped adding a stock
 
 **Pump Blaster**
+  
     There is space for rails on the sides of the blaster that I believe a pump could be put on the front to replace the T-pull 
 
     
