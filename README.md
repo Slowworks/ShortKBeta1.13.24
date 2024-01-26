@@ -683,7 +683,7 @@ Use the bottom at the top of the blaster to release the catch, if  a dart gets s
     
     Way early on in this project, I created a chain method, it could be belt-fed or used as a normal 6-cylinder, I hope to get that project going again 
 
-
+https://github.com/Slowworks/ShortKBeta1.13.24/assets/129894905/b269d187-e44d-4a9b-9d75-9931cb4286ed
 
 **Above 6**
    
