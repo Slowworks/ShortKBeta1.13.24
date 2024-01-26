@@ -14,6 +14,7 @@ Kicker beta test, no files
     5-The build
     6-Shopping List 
     7-How to use 
+    8-Mod dreams
     
 # KickerShort-1-3
 
@@ -674,3 +675,20 @@ The cylinder only spins in one direction, and will push the catch/plunger back.
 https://github.com/Slowworks/ShortKBeta1.13.24/assets/129894905/6ec8f019-d3b3-42b3-92af-244f3db8cb83
 
 Use the bottom at the top of the blaster to release the catch, if  a dart gets stuck (double, triple load) use this to remove 
+
+
+# Mod Dreams
+
+**Chain**
+    Way early on in this project, I created a chain method, it could be belt-fed or used as a normal 6-cylinder, I hope to get that project going again 
+
+**Above 6**
+    The T-pull was built to be modular if anyone can create a cylinder of more than six and simply swap the gears and cylinder out 
+
+**Big Stock**
+    There is a two-piece grip that would allow the bottom half to be swapped adding a stock
+
+**Pump Blaster**
+    There is space for rails on the sides of the blaster that I believe a pump could be put on the front to replace the T-pull 
+
+    
