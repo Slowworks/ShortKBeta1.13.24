@@ -660,21 +660,6 @@ The last think is to choose or create a grip decal
 
 # How it works
 
-**Flick**
-
-https://github.com/Slowworks/ShortKBeta1.13.24/assets/129894905/b9c7db28-b40d-4d09-88e3-82ed95df4446
-
-**Spin**
-
-https://github.com/Slowworks/ShortKBeta1.13.24/assets/129894905/f8612482-3a39-44dc-ac57-05484174e0e1
-
-The cylinder only spins in one direction, and will push the catch/plunger back.
-
-**Jam Release**
-
-https://github.com/Slowworks/ShortKBeta1.13.24/assets/129894905/6ec8f019-d3b3-42b3-92af-244f3db8cb83
-
-Use the bottom at the top of the blaster to release the catch, if  a dart gets stuck (double, triple load) use this to remove 
 
 
 # Mod Dreams
