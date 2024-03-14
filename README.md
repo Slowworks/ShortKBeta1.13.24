@@ -171,7 +171,7 @@ I use two different Lubricants
 
   **Tuning**
 
-![PXL_20240104_173646974](https://github.com/Slowworks/KickerShort-1-3/assets/129894905/fbcda635-1acd-400c-a905-555fc641414a)
+![PXL_20240104_173646974](https://github.com/Slowworks/ShortKBeta1.13.24/assets/129894905/bfe4f324-e36f-453f-8a11-125c4d9cfbfe)
 
 Use the file to smooth the layer lines on the gearbox, this will help with a better prime and cylinder rotation 
 
