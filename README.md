@@ -173,49 +173,49 @@ I use two different Lubricants
 
 Use the file to smooth the layer lines on the gearbox, this will help with a better prime and cylinder rotation 
 
-![PXL_20240104_173703769](https://github.com/Slowworks/KickerShort-1-3/assets/129894905/e092e83b-096c-4f80-8aaf-d0293f9e2b77)
+![PXL_20240104_173703769](https://github.com/Slowworks/ShortKBeta1.13.24/assets/129894905/4c29b366-bb30-42df-8df4-ed4e84aa2762)
 
-![PXL_20240104_173727801](https://github.com/Slowworks/KickerShort-1-3/assets/129894905/33cb1596-461a-433d-838f-6cecb0df5307)
+![PXL_20240104_173727801](https://github.com/Slowworks/ShortKBeta1.13.24/assets/129894905/e4ee2bba-ead6-4d66-bb52-5f5758cf4639)
 
-![PXL_20240104_174046372](https://github.com/Slowworks/KickerShort-1-3/assets/129894905/24e21bca-4221-43db-b44e-908a3a1ebea4)
+![PXL_20240104_174046372](https://github.com/Slowworks/ShortKBeta1.13.24/assets/129894905/4845e6ec-e4e2-4238-afd0-09ec8303ab37)
 
 Be careful not to remove too much material.
 
-![PXL_20240104_174229140](https://github.com/Slowworks/KickerShort-1-3/assets/129894905/5562eed3-da7d-4fc8-8e5f-68d2f821dbbb)
+![PXL_20240104_174229140](https://github.com/Slowworks/ShortKBeta1.13.24/assets/129894905/50d79224-9a34-4607-8e7c-3e0cfbd82d5c)
 
 Bevel the edges of the pusher cap and clean with razor
 
-![PXL_20240104_174320938](https://github.com/Slowworks/KickerShort-1-3/assets/129894905/d52d5b09-0147-46a3-aed7-15da4e9b02e6)
+![PXL_20240104_174320938](https://github.com/Slowworks/ShortKBeta1.13.24/assets/129894905/39176772-0328-4d33-8333-166e6cb0a326)
 
 **Build**
 
-![PXL_20240104_173613235](https://github.com/Slowworks/KickerShort-1-3/assets/129894905/f00b1b57-f264-4ab4-a9fc-54517f22738d)
+![PXL_20240104_173613235](https://github.com/Slowworks/ShortKBeta1.13.24/assets/129894905/45e03a5d-a843-493b-b96a-879ef1d41f30)
 
-![PXL_20240104_180839711 (1)](https://github.com/Slowworks/KickerShort-1-3/assets/129894905/711adb39-abf9-499c-b7bb-7fa065778e83)
-
-Use a M3-20mm
-
-![PXL_20240104_180920576](https://github.com/Slowworks/KickerShort-1-3/assets/129894905/a5a13f8d-30d0-4318-b80f-9215fa913201)
-
-![PXL_20240104_181029947](https://github.com/Slowworks/KickerShort-1-3/assets/129894905/ad24fd7e-3980-4f5a-a909-a697ed7326b5)
+![PXL_20240104_180839711](https://github.com/Slowworks/ShortKBeta1.13.24/assets/129894905/0dabdbea-87e2-48e6-8615-e0abeab33d5a)
 
 Use a M3-20mm
 
-![PXL_20240104_181109901](https://github.com/Slowworks/KickerShort-1-3/assets/129894905/f8d90832-7cc4-4359-809b-8c172784af06)
+![PXL_20240104_180920576](https://github.com/Slowworks/ShortKBeta1.13.24/assets/129894905/e935dc1e-ba37-4e18-bfd6-0af0c8e2e614)
+
+![PXL_20240104_181029947](https://github.com/Slowworks/ShortKBeta1.13.24/assets/129894905/42f44f99-e19c-40c1-92b1-daff01ed7d23)
+
+Use a M3-20mm
+
+![PXL_20240104_181109901](https://github.com/Slowworks/ShortKBeta1.13.24/assets/129894905/19db902a-c5df-45f8-8834-8ee4a73a8337)
 
 Make sure the Screw cap fits in the groves of the gearbox and is tightened to barely fit in the gearbox ( don't overtighten) 
 
-![PXL_20240104_181242376 (1)](https://github.com/Slowworks/KickerShort-1-3/assets/129894905/0ea7ba10-8353-4d9c-a296-b5e2ec310a7c)
+![PXL_20240104_181242376](https://github.com/Slowworks/ShortKBeta1.13.24/assets/129894905/735252b7-b5f0-4c46-beea-46c2988e78db)
 
 All the pieces plug together 
 
-![PXL_20240104_181316322](https://github.com/Slowworks/KickerShort-1-3/assets/129894905/28ede161-1571-48cb-9d45-c59875e9b448)
+![PXL_20240104_181316322](https://github.com/Slowworks/ShortKBeta1.13.24/assets/129894905/ea44d18b-26c4-46a1-b4b4-fe0c2369c365)
 
 Use a M3-16mm
 
-![PXL_20240104_181350433](https://github.com/Slowworks/KickerShort-1-3/assets/129894905/be9fa438-1605-456b-9b47-cd4613f69272)
+![PXL_20240104_181350433](https://github.com/Slowworks/ShortKBeta1.13.24/assets/129894905/c1cf4a68-2380-4abe-a669-cd4dfdffc423)
 
-![PXL_20240104_181414590](https://github.com/Slowworks/KickerShort-1-3/assets/129894905/74ce532e-2158-40d0-a108-7ccf003f91a7)
+![PXL_20240104_181414590](https://github.com/Slowworks/ShortKBeta1.13.24/assets/129894905/9e78ab85-ed75-4288-873c-22bb5c436dc2)
 
 Smooth the cap for easier priming
 
